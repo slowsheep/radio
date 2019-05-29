@@ -109,6 +109,7 @@ public class MainActivity extends AppCompatActivity implements
                 pager.setCurrentItem(2);
                 break;
             default:
+                //aaaaaaa
                 break;
         }
     }
