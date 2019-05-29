@@ -5,10 +5,8 @@
     android:layout_height="match_parent"
     tools:context=".LocalFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="第一个" />
+    <ImageView android:id="@+id/fragment_local_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </FrameLayout>
