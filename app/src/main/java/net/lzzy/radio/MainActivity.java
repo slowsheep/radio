@@ -16,8 +16,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements
-        LocalFragment.OnFragmentInteractionListener,
-        FindFragment.OnFragmentInteractionListener,
         ChartFragment.OnFragmentInteractionListener, View.OnClickListener {
     private int[] tabIds = {R.id.tab1,R.id.tab2,R.id.tab3};
 
